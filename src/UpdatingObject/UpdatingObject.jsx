@@ -28,7 +28,7 @@ export default function UpdatingObject() {
     });
   }
 
-  console.log(person);
+//   console.log(person);
 
   return (
     <>
